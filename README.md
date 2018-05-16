@@ -1,4 +1,6 @@
 # commercetools JVM SDK
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnkuehn%2Fcommercetools-jvm-sdk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnkuehn%2Fcommercetools-jvm-sdk?ref=badge_shield)
+
 
 
 
@@ -157,3 +159,7 @@ authUrl=https://auth.sphere.io
 
 [license]:LICENSE.md
 [license img]:https://img.shields.io/badge/License-Apache%202-blue.svg
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnkuehn%2Fcommercetools-jvm-sdk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnkuehn%2Fcommercetools-jvm-sdk?ref=badge_large)
